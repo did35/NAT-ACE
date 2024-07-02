@@ -52,7 +52,10 @@
 			isa = PBXGroup;
 			children = (
 				633219F52C343E3E003CA2DA /* NAT_ACEApp.swift */,
-				633219F72C343E3E003CA2DA /* ContentView.swift */,
+				63321A062C344000003CA2DA /* Data */,
+				63321A052C343FE0003CA2DA /* Model */,
+				63321A042C343FD6003CA2DA /* Views */,
+				63321A032C343FCC003CA2DA /* ViewModel */,
 				633219F92C343E40003CA2DA /* Assets.xcassets */,
 				633219FB2C343E40003CA2DA /* Preview Content */,
 			);
@@ -65,6 +68,35 @@
 				633219FC2C343E40003CA2DA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		63321A032C343FCC003CA2DA /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		63321A042C343FD6003CA2DA /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				633219F72C343E3E003CA2DA /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		63321A052C343FE0003CA2DA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		63321A062C344000003CA2DA /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
