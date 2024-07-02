@@ -11,6 +11,10 @@
 		633219F82C343E3E003CA2DA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633219F72C343E3E003CA2DA /* ContentView.swift */; };
 		633219FA2C343E40003CA2DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 633219F92C343E40003CA2DA /* Assets.xcassets */; };
 		633219FD2C343E40003CA2DA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 633219FC2C343E40003CA2DA /* Preview Assets.xcassets */; };
+		63986C0F2C3440CC005A5165 /* AceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63986C0E2C3440CC005A5165 /* AceModel.swift */; };
+		63986C122C344157005A5165 /* Bundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63986C112C344157005A5165 /* Bundle.swift */; };
+		63986C142C344173005A5165 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63986C132C344173005A5165 /* ContentViewModel.swift */; };
+		63986C162C3442C4005A5165 /* aceNorthAtlantic.json in Resources */ = {isa = PBXBuildFile; fileRef = 63986C152C3442C4005A5165 /* aceNorthAtlantic.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		633219F72C343E3E003CA2DA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		633219F92C343E40003CA2DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		633219FC2C343E40003CA2DA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		63986C0E2C3440CC005A5165 /* AceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AceModel.swift; sourceTree = "<group>"; };
+		63986C112C344157005A5165 /* Bundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bundle.swift; sourceTree = "<group>"; };
+		63986C132C344173005A5165 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		63986C152C3442C4005A5165 /* aceNorthAtlantic.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = aceNorthAtlantic.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				633219F52C343E3E003CA2DA /* NAT_ACEApp.swift */,
+				63986C102C34413D005A5165 /* Extension */,
 				63321A062C344000003CA2DA /* Data */,
 				63321A052C343FE0003CA2DA /* Model */,
 				63321A042C343FD6003CA2DA /* Views */,
@@ -73,6 +82,7 @@
 		63321A032C343FCC003CA2DA /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				63986C132C344173005A5165 /* ContentViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -88,6 +98,7 @@
 		63321A052C343FE0003CA2DA /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				63986C0E2C3440CC005A5165 /* AceModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -95,8 +106,17 @@
 		63321A062C344000003CA2DA /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				63986C152C3442C4005A5165 /* aceNorthAtlantic.json */,
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		63986C102C34413D005A5165 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				63986C112C344157005A5165 /* Bundle.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -159,6 +179,7 @@
 			files = (
 				633219FD2C343E40003CA2DA /* Preview Assets.xcassets in Resources */,
 				633219FA2C343E40003CA2DA /* Assets.xcassets in Resources */,
+				63986C162C3442C4005A5165 /* aceNorthAtlantic.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,8 +190,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63986C0F2C3440CC005A5165 /* AceModel.swift in Sources */,
+				63986C122C344157005A5165 /* Bundle.swift in Sources */,
 				633219F82C343E3E003CA2DA /* ContentView.swift in Sources */,
 				633219F62C343E3E003CA2DA /* NAT_ACEApp.swift in Sources */,
+				63986C142C344173005A5165 /* ContentViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +336,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -341,6 +366,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
