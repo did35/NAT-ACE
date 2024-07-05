@@ -29,30 +29,4 @@ class ContentViewModel: ObservableObject {
         }
         return nil
     }
-    
-    /*
-    // Method to calculate the linear regression coefficients
-    func linearRegression() -> (slope: Double, intercept: Double) {
-        let n = Double(accumulatedCycloneEnergy.count)
-        let sumX = accumulatedCycloneEnergy.reduce(0) { $0 + Double($1.year)! }
-        let sumY = accumulatedCycloneEnergy.reduce(0) { $0 + $1.energy }
-        let sumXY = accumulatedCycloneEnergy.reduce(0) { $0 + (Double($1.year)! * $1.energy) }
-        let sumX2 = accumulatedCycloneEnergy.reduce(0) { $0 + (Double($1.year)! * Double($1.year)!)}
-        
-        let slope = (n * sumXY - sumX * sumY) / (n * sumX2 - sumX * sumX)
-        let intercept = (sumY - slope * sumX) / n
-        return (slope, intercept)
-    }
-    
-    // Method to generate trend line points
-    func trendLinePoints() -> [AceModel] {
-        let (slope, intercept) = linearRegression()
-        
-        return accumulatedCycloneEnergy.map { data in
-            let year = Double(data.year)!
-            let energy = slope * year + intercept
-            return AceModel(year: data.year, energy: energy)
-        }
-    }
-    */
 }

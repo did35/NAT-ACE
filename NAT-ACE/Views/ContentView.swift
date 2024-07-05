@@ -23,6 +23,7 @@ struct ContentView: View {
             GroupBox {
                 aceExplanation
             }
+            .padding()
         }
     }
 }
@@ -62,38 +63,9 @@ extension ContentView {
            // RuleMark(y: .value("Average bar", vm.averageEnergy))
                 //.foregroundStyle(.secondary)
         }
-        /*
-        Chart {
-            ForEach(vm.accumulatedCycloneEnergy) { data in
-                LineMark(
-                    x: .value("Year", Int(data.year) ?? 0),
-                    y: .value("Energy", data.energy)
-                )
-                .foregroundStyle(.blue)
-            }
-            
-            ForEach(vm.trendLinePoints()) { data in
-                LineMark(
-                    x: .value("Year", Int(data.year) ?? 0),
-                    y: .value("Energy", data.energy)
-                )
-                .foregroundStyle(.red)
-            }
-        }
-         */
         .frame(height: 300)
         .padding()
     }
-    
-    /*
-    private var averageAce: some View {
-        Text("ACE average: \(vm.averageEnergy, specifier: "%.2f")")
-            .font(.subheadline)
-            .fontWeight(.heavy)
-            .foregroundStyle(.secondary)
-            .padding(.top, 150)
-    }
-     */
     
     private var highestAndLowest: some View {
         HStack {
