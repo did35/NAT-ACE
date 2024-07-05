@@ -9,6 +9,7 @@ import Foundation
 
 class ContentViewModel: ObservableObject {
     @Published var accumulatedCycloneEnergy: [AceModel] = Bundle.main.decode("aceNorthAtlantic.json")
+    @Published var amo: [AmoModel] = Bundle.main.decode("amo.json")
     @Published var averageDifference: Double = 0.0
     
     var averageEnergy: Double {

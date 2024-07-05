@@ -15,6 +15,8 @@
 		63986C122C344157005A5165 /* Bundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63986C112C344157005A5165 /* Bundle.swift */; };
 		63986C142C344173005A5165 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63986C132C344173005A5165 /* ContentViewModel.swift */; };
 		63986C162C3442C4005A5165 /* aceNorthAtlantic.json in Resources */ = {isa = PBXBuildFile; fileRef = 63986C152C3442C4005A5165 /* aceNorthAtlantic.json */; };
+		63F3861D2C383CE0009B5AFA /* AmoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F3861C2C383CE0009B5AFA /* AmoModel.swift */; };
+		63F3861F2C383E05009B5AFA /* amo.json in Resources */ = {isa = PBXBuildFile; fileRef = 63F3861E2C383E05009B5AFA /* amo.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		63986C112C344157005A5165 /* Bundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bundle.swift; sourceTree = "<group>"; };
 		63986C132C344173005A5165 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		63986C152C3442C4005A5165 /* aceNorthAtlantic.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = aceNorthAtlantic.json; sourceTree = "<group>"; };
+		63F3861C2C383CE0009B5AFA /* AmoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmoModel.swift; sourceTree = "<group>"; };
+		63F3861E2C383E05009B5AFA /* amo.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = amo.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				63986C0E2C3440CC005A5165 /* AceModel.swift */,
+				63F3861C2C383CE0009B5AFA /* AmoModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -107,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				63986C152C3442C4005A5165 /* aceNorthAtlantic.json */,
+				63F3861E2C383E05009B5AFA /* amo.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -178,6 +184,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				633219FD2C343E40003CA2DA /* Preview Assets.xcassets in Resources */,
+				63F3861F2C383E05009B5AFA /* amo.json in Resources */,
 				633219FA2C343E40003CA2DA /* Assets.xcassets in Resources */,
 				63986C162C3442C4005A5165 /* aceNorthAtlantic.json in Resources */,
 			);
@@ -195,6 +202,7 @@
 				633219F82C343E3E003CA2DA /* ContentView.swift in Sources */,
 				633219F62C343E3E003CA2DA /* NAT_ACEApp.swift in Sources */,
 				63986C142C344173005A5165 /* ContentViewModel.swift in Sources */,
+				63F3861D2C383CE0009B5AFA /* AmoModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
