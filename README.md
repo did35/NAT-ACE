@@ -263,6 +263,8 @@ The paper by Tianle Yuan and colleagues provides important insights into the uni
 
 **Language:** Swift
 
+**Architecture:** MVVM
+
 
 ## Screenshots
 <img width="1200" alt="ACE-NAT" src="https://github.com/did35/NAT-ACE/assets/17040667/c3d3e2aa-7f2d-4bf1-b4f5-449ba2cc51b0">
