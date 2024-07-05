@@ -266,9 +266,6 @@ The paper by Tianle Yuan and colleagues provides important insights into the uni
 
 ## Screenshots
 <img width="1200" alt="ACE-NAT" src="https://github.com/did35/NAT-ACE/assets/17040667/c3d3e2aa-7f2d-4bf1-b4f5-449ba2cc51b0">
-<img height="400" src="https://github.com/did35/NAT-ACE/assets/17040667/fc94b954-a8e0-4d8b-8a3f-9cecb6fd8517"> 
-<img height="400" src="https://github.com/did35/NAT-ACE/assets/17040667/817a537c-10a5-4db6-8119-a0bb364cd850">
-
 
 ## Acknowledgements
 
