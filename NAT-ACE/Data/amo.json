@@ -1,12 +1,182 @@
 [
     {
-        "year": 1,
+        "year": 1856,
         "month": 1,
-        "value": 1.0
+        "value": 0.243
     },
     {
-        "year": 1,
+        "year": 1856,
         "month": 2,
-        "value": 1.0
+        "value": 0.176
+    },
+    {
+        "year": 1856,
+        "month": 3,
+        "value": 0.248
+    },
+    {
+        "year": 1856,
+        "month": 4,
+        "value": 0.167
+    },
+    {
+        "year": 1856,
+        "month": 5,
+        "value": 0.219
+    },
+    {
+        "year": 1856,
+        "month": 6,
+        "value": 0.241
+    },
+    {
+        "year": 1856,
+        "month": 7,
+        "value": 0.255
+    },
+    {
+        "year": 1856,
+        "month": 8,
+        "value": 0.232
+    },
+    {
+        "year": 1856,
+        "month": 9,
+        "value": 0.299
+    },
+    {
+        "year": 1856,
+        "month": 10,
+        "value": 0.149
+    },
+    {
+        "year": 1856,
+        "month": 11,
+        "value": 0.159
+    },
+    {
+        "year": 1856,
+        "month": 12,
+        "value": 0.253
+    },
+    {
+        "year": 1857,
+        "month": 1,
+        "value": 0.238
+    },
+    {
+        "year": 1857,
+        "month": 2,
+        "value": -0.035
+    },
+    {
+        "year": 1857,
+        "month": 3,
+        "value": -0.050
+    },
+    {
+        "year": 1857,
+        "month": 4,
+        "value": 0.032
+    },
+    {
+        "year": 1857,
+        "month": 5,
+        "value": -0.008
+    },
+    {
+        "year": 1857,
+        "month": 6,
+        "value": 0.124
+    },
+    {
+        "year": 1857,
+        "month": 7,
+        "value": 0.156
+    },
+    {
+        "year": 1857,
+        "month": 8,
+        "value": 0.022
+    },
+    {
+        "year": 1857,
+        "month": 9,
+        "value": 0.043
+    },
+    {
+        "year": 1857,
+        "month": 10,
+        "value": -0.110
+    },
+    {
+        "year": 1857,
+        "month": 11,
+        "value": -0.144
+    },
+    {
+        "year": 1857,
+        "month": 12,
+        "value": -0.259
+    },
+    {
+        "year": 1858,
+        "month": 1,
+        "value": -0.197
+    },
+    {
+        "year": 1858,
+        "month": 2,
+        "value": -0.290
+    },
+    {
+        "year": 1858,
+        "month": 3,
+        "value": -0.046
+    },
+    {
+        "year": 1858,
+        "month": 4,
+        "value": 0.235
+    },
+    {
+        "year": 1858,
+        "month": 5,
+        "value": 0.113
+    },
+    {
+        "year": 1858,
+        "month": 6,
+        "value": -0.016
+    },
+    {
+        "year": 1858,
+        "month": 7,
+        "value": -0.137
+    },
+    {
+        "year": 1858,
+        "month": 8,
+        "value": -0.047
+    },
+    {
+        "year": 1858,
+        "month": 9,
+        "value": 0.094
+    },
+    {
+        "year": 1858,
+        "month": 10,
+        "value": 0.172
+    },
+    {
+        "year": 1858,
+        "month": 11,
+        "value": 0.299
+    },
+    {
+        "year": 1858,
+        "month": 12,
+        "value": 0.146
     }
 ]
