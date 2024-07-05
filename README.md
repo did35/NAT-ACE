@@ -265,11 +265,13 @@ The paper by Tianle Yuan and colleagues provides important insights into the uni
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1200" alt="ACE-NAT" src="https://github.com/did35/NAT-ACE/assets/17040667/c3d3e2aa-7f2d-4bf1-b4f5-449ba2cc51b0">
+<img height="450" src="https://github.com/did35/NAT-ACE/assets/17040667/fc94b954-a8e0-4d8b-8a3f-9cecb6fd8517"> 
+<img height="450" src="https://github.com/did35/NAT-ACE/assets/17040667/817a537c-10a5-4db6-8119-a0bb364cd850">
 
 
 ## Acknowledgements
+
 
 I acknowledge that this is a controversial topic, particularly as mainstream discussions often focus on human causes of climate change. However, my research tends to focus on natural causes and their significant roles in influencing climate and weather patterns. While these factors are part of a complex system influencing SST and hurricane activity, my goal is to understand their combined impact on ACE in the North Atlantic Ocean.
 
