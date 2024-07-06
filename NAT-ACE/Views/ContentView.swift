@@ -98,6 +98,10 @@ extension ContentView {
                 .font(.title)
                 .fontWeight(.bold)
                 .foregroundStyle(.blue)
+            Text("(Unsmooth data)")
+                .font(.subheadline)
+                .fontWeight(.bold)
+                .foregroundStyle(.secondary)
             Text("1856 ~ 2023")
                 .font(.title3)
                 .fontWeight(.bold)
@@ -105,7 +109,7 @@ extension ContentView {
             
             Chart {
                 ForEach(vm.amo) {
-                    LineMark(x: .value("Date", $0.year),
+                    BarMark(x: .value("Date", $0.year),
                              y: .value("Index", $0.value)
                     )
                 }
