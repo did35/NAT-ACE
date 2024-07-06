@@ -16,10 +16,11 @@ struct ContentView: View {
     // MARK: - Body
     var body: some View {
         ScrollView {
-                aceTitle
-                aceSubTitle
-                aceChart
-                highestAndLowest
+            aceTitle
+            aceSubTitle
+            aceChart
+            highestAndLowest
+            amoChart
             GroupBox {
                 aceExplanation
             }
@@ -89,5 +90,28 @@ extension ContentView {
     
     private var aceExplanation: some View {
         Text("Accumulated cyclone energy (ACE) is a metric used to compare overall activity of tropical cyclones, utilizing the available records of windspeeds at six-hour intervals to synthesize storm duration and strength into a single index value. The ACE index may refer to a single storm or to groups of storms such as those within a particular month, a full season or combined seasons. It is calculated by summing the square of tropical cyclones' maximum sustained winds, as recorded every six hours, but only for windspeeds of at least tropical storm strength (≥ 34 kn; 63 km/h; 39 mph); the resulting figure is divided by 10,000 to place it on a more manageable scale.")
+    }
+    
+    private var amoChart: some View {
+        VStack {
+            Text("AMO")
+                .font(.title)
+                .fontWeight(.bold)
+                .foregroundStyle(.blue)
+            Text("1856 ~ 2023")
+                .font(.title3)
+                .fontWeight(.bold)
+                .foregroundStyle(.secondary)
+            
+            Chart {
+                ForEach(vm.amo) {
+                    LineMark(x: .value("Date", $0.year),
+                             y: .value("Index", $0.value)
+                    )
+                }
+            }
+            .frame(height: 300)
+        }
+        .padding()
     }
 }

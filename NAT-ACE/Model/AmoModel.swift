@@ -9,11 +9,10 @@ import Foundation
 
 struct AmoModel: Identifiable, Codable {
     let id = UUID()
-    let year: Int
-    let month: Int
+    let year: String
     let value: Double
     
     private enum CodingKeys: String, CodingKey {
-        case year, month, value
+        case year, value
     }
 }
