@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6313FDE12C3BE48E00F3EB19 /* Mockup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6313FDE02C3BE48E00F3EB19 /* Mockup.swift */; };
 		633219F62C343E3E003CA2DA /* NAT_ACEApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633219F52C343E3E003CA2DA /* NAT_ACEApp.swift */; };
 		633219F82C343E3E003CA2DA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633219F72C343E3E003CA2DA /* ContentView.swift */; };
 		633219FA2C343E40003CA2DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 633219F92C343E40003CA2DA /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6313FDE02C3BE48E00F3EB19 /* Mockup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mockup.swift; sourceTree = "<group>"; };
 		633219F22C343E3E003CA2DA /* NAT-ACE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NAT-ACE.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		633219F52C343E3E003CA2DA /* NAT_ACEApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NAT_ACEApp.swift; sourceTree = "<group>"; };
 		633219F72C343E3E003CA2DA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 			children = (
 				63986C152C3442C4005A5165 /* aceNorthAtlantic.json */,
 				63F3861E2C383E05009B5AFA /* amo.json */,
+				6313FDE02C3BE48E00F3EB19 /* Mockup.swift */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6313FDE12C3BE48E00F3EB19 /* Mockup.swift in Sources */,
 				63986C0F2C3440CC005A5165 /* AceModel.swift in Sources */,
 				63986C122C344157005A5165 /* Bundle.swift in Sources */,
 				633219F82C343E3E003CA2DA /* ContentView.swift in Sources */,
