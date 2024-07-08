@@ -16,8 +16,6 @@ struct ContentView: View {
     // MARK: - Body
     var body: some View {
         ScrollView {
-            aceTitle
-            aceSubTitle
             aceChart
             highestAndLowest
             amoChart
@@ -52,17 +50,20 @@ extension ContentView {
     }
     
     private var aceChart: some View {
-        
-        Chart {
-            ForEach(vm.accumulatedCycloneEnergy) {
-                BarMark(
-                    x: .value("Year", $0.year),
-                    y: .value("ace", $0.energy)
-                )
-                .foregroundStyle(.mint)
+        VStack {
+            aceTitle
+            aceSubTitle
+            Chart {
+                ForEach(vm.accumulatedCycloneEnergy) {
+                    BarMark(
+                        x: .value("Year", $0.year),
+                        y: .value("ace", $0.energy)
+                    )
+                    .foregroundStyle(.mint)
+                }
+               // RuleMark(y: .value("Average bar", vm.averageEnergy))
+                    //.foregroundStyle(.secondary)
             }
-           // RuleMark(y: .value("Average bar", vm.averageEnergy))
-                //.foregroundStyle(.secondary)
         }
         .frame(height: 300)
         .padding()
