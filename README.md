@@ -273,8 +273,9 @@ The paper by Tianle Yuan and colleagues provides important insights into the uni
 
 ## Acknowledgements
 
-
 I acknowledge that this is a controversial topic, particularly as mainstream discussions often focus on human causes of climate change. However, my research tends to focus on natural causes and their significant roles in influencing climate and weather patterns. While these factors are part of a complex system influencing SST and hurricane activity, my goal is to understand their combined impact on ACE in the North Atlantic Ocean.
+
+The ENSO influence and the Hunga Tonga marine volcano eruption that erupted in January 2022 are not part of this study but could be integrated for future understanding of this complex chaotic system.
 
 
 ## Paper Reference
