@@ -275,7 +275,7 @@ The paper by Tianle Yuan and colleagues provides important insights into the uni
 
 I acknowledge that this is a controversial topic, particularly as mainstream discussions often focus on human causes of climate change. However, my research tends to focus on natural causes and their significant roles in influencing climate and weather patterns. While these factors are part of a complex system influencing SST and hurricane activity, my goal is to understand their combined impact on ACE in the North Atlantic Ocean.
 
-The ENSO influence and the Hunga Tonga marine volcano eruption that erupted in January 2022 are not part of this study but could be integrated for future understanding of this complex chaotic system.
+The ENSO influence and the Hunga Tonga marine volcano eruption that erupted in January 2022 are not part of this study but could be integrated for future understanding of this complex non-linear chaotic system *[7](https://www.ipcc.ch/report/ar3/wg1/)*.
 
 
 ## Paper Reference
@@ -291,6 +291,9 @@ The ENSO influence and the Hunga Tonga marine volcano eruption that erupted in J
 [5] [Global limit on sulphur in ships' fuel oil reduced from 01 January 2020](https://www.imo.org/en/MediaCentre/PressBriefings/pages/34-IMO-2020-sulphur-limit-.aspx)
 
 [6] [Abrupt reduction in shipping emission as an inadvertent geoengineering termination shock produces substantial radiative warming](https://www.nature.com/articles/s43247-024-01442-3)
+
+[7] [Third Assessment Report (TAR) WG1, CH14 pg 774 - 2001](https://www.ipcc.ch/report/ar3/wg1/)
+
 ## Datasets
 
 - [Accumulated Cyclone Energy (ACE) index](https://climatlas.com/tropical/)
