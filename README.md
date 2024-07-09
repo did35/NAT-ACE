@@ -268,8 +268,7 @@ The paper by Tianle Yuan and colleagues provides important insights into the uni
 
 ## Screenshots
 <img width="1200" alt="ACE-NAT" src="https://github.com/did35/NAT-ACE/assets/17040667/c3d3e2aa-7f2d-4bf1-b4f5-449ba2cc51b0">
-<img width="1200" alt="ACE versus AMO" src="https://github.com/did35/NAT-ACE/assets/17040667/d2cdba30-9b1b-4467-bd30-3c6cde66e984">
-
+<img width="1200" alt="ACE versus AMO" src="https://github.com/did35/NAT-ACE/assets/17040667/23f803f0-6bca-44b1-845b-92282064271f">
 
 
 ## Acknowledgements
