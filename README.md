@@ -292,7 +292,7 @@ The ENSO influence and the Hunga Tonga marine volcano eruption that erupted in J
 
 [6] [Abrupt reduction in shipping emission as an inadvertent geoengineering termination shock produces substantial radiative warming](https://www.nature.com/articles/s43247-024-01442-3)
 
-[7] [Third Assessment Report (TAR) WG1, CH14 pg 774 - 2001](https://www.ipcc.ch/report/ar3/wg1/)
+[7] [IPCC Third Assessment Report (TAR) WG1, CH14 pg 774 - 2001](https://www.ipcc.ch/report/ar3/wg1/)
 
 ## Datasets
 
