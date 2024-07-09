@@ -2,9 +2,10 @@
 
 The Barrier Layer Thickness (BLT) *[1](https://news.miami.edu/stories/2018/09/how-does-a-river-plume-influence-hurricanes-in-the-caribbean.html)* - *[2](https://journals.ametsoc.org/view/journals/phoc/53/2/JPO-D-21-0235.1.xml)*, significantly influenced by freshwater plumes from the Amazon and Orinoco rivers, plays a crucial role in maintaining high sea surface temperatures (SSTs) by preventing vertical mixing of the ocean’s layers. This warm, stable surface layer provides the necessary heat and energy for hurricanes to develop and intensify rapidly. Accumulated Cyclone Energy (ACE) *[3](https://en.wikipedia.org/wiki/Accumulated_cyclone_energy)* measures the total energy of tropical cyclones, calculated from their wind speeds and duration. Additionally, the Atlantic Multidecadal Oscillation (AMO) *[4](https://www.aoml.noaa.gov/phod/faq/amo_faq.php)*, a climate cycle affecting SSTs in the North Atlantic over periods of about 60 to 70 years, further modulates hurricane activity. Positive phases of the AMO, characterized by warmer SSTs, enhance the effects of BLT, leading to higher ACE values and more intense hurricane seasons. 
 
-Furthermore, recent reductions in sulfur emissions from shipping, mandated by the International Maritime Organization (IMO) *[5](https://www.imo.org/en/MediaCentre/PressBriefings/pages/34-IMO-2020-sulphur-limit-.aspx)* to improve air quality, have inadvertently decreased the reflective sulfate aerosols in the atmosphere, resulting in increased solar radiation absorption by the oceans and contributing to higher SSTs *[6](https://www.nature.com/articles/s43247-024-01442-3)*. 
+Furthermore, recent reductions in sulphur emissions from shipping, mandated by the International Maritime Organization (IMO) *[5](https://www.imo.org/en/MediaCentre/PressBriefings/pages/34-IMO-2020-sulphur-limit-.aspx)* to improve air quality, have inadvertently decreased the reflective sulfate aerosols in the atmosphere, resulting in increased solar radiation absorption by the oceans and contributing to higher SSTs *[6](https://www.nature.com/articles/s43247-024-01442-3)*. 
 
 While these factors are part of a complex system influencing SST and hurricane activity, my research aims to understand their combined impact on ACE in the North Atlantic Ocean. It is important to note that there are many interacting variables in climate systems, and this post highlights some of the contributing factors under study.
+
 ## Accumulated Cyclone Energy (ACE)
 
 Accumulated cyclone energy (ACE) is a metric used to compare overall activity of tropical cyclones, utilizing the available records of windspeeds at six-hour intervals to synthesize storm duration and strength into a single index value. The ACE index may refer to a single storm or to groups of storms such as those within a particular month, a full season or combined seasons. It is calculated by summing the square of tropical cyclones' maximum sustained winds, as recorded every six hours, but only for windspeeds of at least tropical storm strength (≥ 34 kn; 63 km/h; 39 mph); the resulting figure is divided by 10,000 to place it on a more manageable scale.
@@ -230,6 +231,7 @@ The intensity and extent of river plumes from the Amazon and Orinoco rivers can 
 ### Summary
 
 In June, the river plumes from the Amazon are typically quite extensive due to the high discharge from the preceding months. The Orinoco plume is starting to intensify as it approaches its peak discharge in the following months. These conditions contribute to the formation of a significant barrier layer, influencing sea surface temperatures and potentially aiding in the development and intensification of hurricanes.
+
 ## Impact of the abrupt reduction in shipping emissions
 
 Tianle Yuan and colleagues *[6](https://www.nature.com/articles/s43247-024-01442-3)*, addresses the impact of the abrupt reduction in shipping emissions on radiative forcing and climate. The title of the paper is "Abrupt reduction in shipping emissions as an inadvertent geo-engineering termination shock produces substantial radiative warming." 
@@ -237,14 +239,14 @@ Tianle Yuan and colleagues *[6](https://www.nature.com/articles/s43247-024-01442
 **Here are some key points about the paper**:
 
 ### Background
-- **IMO 2020 Regulation**: The International Maritime Organization (IMO) implemented a regulation starting in January 2020 that required a significant reduction in the sulfur content of shipping fuels - *[5](https://www.imo.org/en/MediaCentre/PressBriefings/pages/34-IMO-2020-sulphur-limit-.aspx)*. This change aimed to reduce air pollution and associated health problems but also had climate implications.
+- **IMO 2020 Regulation**: The International Maritime Organization (IMO) implemented a regulation starting in January 2020 that required a significant reduction in the sulphur content of shipping fuels - *[5](https://www.imo.org/en/MediaCentre/PressBriefings/pages/34-IMO-2020-sulphur-limit-.aspx)*. This change aimed to reduce air pollution and associated health problems but also had climate implications.
 
 ### Key Findings
 - **Reduction in Sulfate Aerosols**: Sulfur compounds in ship emissions lead to the formation of sulfate aerosols, which have a cooling effect by reflecting sunlight back into space. The reduction in sulfur emissions due to the IMO 2020 regulation led to a decrease in these sulfate aerosols.
   
 - **Radiative Forcing Estimate**: The paper estimates that the reduction in shipping emissions resulted in a radiative forcing of 0.2 to 0.11 Wm^-2. Radiative forcing is a measure of the influence a factor has in altering the balance of incoming and outgoing energy in the Earth's atmosphere system. Positive radiative forcing tends to warm the surface, while negative radiative forcing tends to cool it.
 
-- **Inadvertent Geo-engineering**: The term "inadvertent geo-engineering termination shock" in the title refers to the unintended consequences of abruptly stopping an activity (in this case, the emission of sulfur compounds from ships) that had been inadvertently cooling the planet. The sudden reduction in these cooling aerosols led to an abrupt warming.
+- **Inadvertent Geo-engineering**: The term "inadvertent geo-engineering termination shock" in the title refers to the unintended consequences of abruptly stopping an activity (in this case, the emission of sulphur compounds from ships) that had been inadvertently cooling the planet. The sudden reduction in these cooling aerosols led to an abrupt warming.
 
 ### Implications
 - **Substantial Warming**: The reduction in sulfate aerosols due to decreased sulfur emissions led to an increase in radiative forcing, which translates to a warming effect. This suggests that while reducing sulfur emissions is beneficial for air quality and human health, it has the side effect of reducing a cooling influence on the climate, thus contributing to global warming.
