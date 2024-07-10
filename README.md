@@ -279,7 +279,7 @@ I acknowledge that this is a controversial topic, particularly as mainstream dis
 
 The ENSO influence is not part of this study but could be integrated for future understanding of this complex non-linear chaotic system *[7](https://www.ipcc.ch/report/ar3/wg1/)*. 
 
-The unprecedented Hunga Tonga marine volcano eruption in January 2022, which is a serious candidate for explaining the sudden warming observed in the North Atlantic in 2023, is also not part of this study but presents an important area for future research.
+The unprecedented Hunga Tonga marine volcano eruption in January 2022 *[8](https://research.noaa.gov/2023/12/20/hunga-tonga-2022-eruption/)*, which is a serious candidate for explaining the sudden warming observed in the North Atlantic in 2023, is also not part of this study but presents an important area for future research.
 
 Sulphur reduction might not explain the sudden warming we have seen in the North Atlantic as observed in 2023, and some studies contradict this hypothesis. The question mark above the graph represents this uncertainty.
 
@@ -299,6 +299,8 @@ Sulphur reduction might not explain the sudden warming we have seen in the North
 [6] [Abrupt reduction in shipping emission as an inadvertent geoengineering termination shock produces substantial radiative warming](https://www.nature.com/articles/s43247-024-01442-3)
 
 [7] [Intergovernmental Panel on Climate Change (IPCC), Third Assessment Report (TAR), Working Group I, Chapter 14, p. 774, 2001.](https://www.ipcc.ch/report/ar3/wg1/)
+
+[8] [A volcanic eruption sent enough water vapor into the stratosphere to cause a rapid change in chemistry.](https://research.noaa.gov/2023/12/20/hunga-tonga-2022-eruption/)
 
 ## Datasets
 
