@@ -277,7 +277,11 @@ The paper by Tianle Yuan and colleagues provides important insights into the uni
 
 I acknowledge that this is a controversial topic, particularly as mainstream discussions often focus on human causes of climate change. However, my research tends to focus on natural causes and their significant roles in influencing climate and weather patterns. While these factors are part of a complex system influencing SST and hurricane activity, my goal is to understand their combined impact on ACE in the North Atlantic Ocean.
 
-The ENSO influence and the Hunga Tonga marine volcano eruption that erupted in January 2022 are not part of this study but could be integrated for future understanding of this complex non-linear chaotic system *[7](https://www.ipcc.ch/report/ar3/wg1/)*.
+The ENSO influence is not part of this study but could be integrated for future understanding of this complex non-linear chaotic system *[7](https://www.ipcc.ch/report/ar3/wg1/)*. 
+
+The unprecedented Hunga Tonga marine volcano eruption in January 2022, which is a serious candidate for explaining the sudden warming observed in the North Atlantic in 2023, is also not part of this study but presents an important area for future research.
+
+Sulphur reduction might not explain the sudden warming we have seen in the North Atlantic as observed in 2023, and some studies contradict this hypothesis. The question mark above the graph represents this uncertainty.
 
 
 ## Paper Reference
